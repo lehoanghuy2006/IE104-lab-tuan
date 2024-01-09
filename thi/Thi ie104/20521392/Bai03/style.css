@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.border{
+    border: 1px solid black;
+    margin: auto;
+    margin-top:60px;
+    width: 500px;
+    height: 550px;
+}
+
+.title{
+    background-color: rgb(133, 133, 242);
+    color: white;
+    height: 50px;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns:280px 400px;
+}
+
+.grid-row1 input{
+    margin-left: 30px;
+    margin-top: 30px;
+    height: 30px;
+    text-indent: 10px;
+    border: none;
+}
+
+.grid-row2 input{
+    margin-left: 30px;
+    margin-top: 30px;
+    height: 30px;
+    text-indent: 10px;
+    border: none;
+}
+
+.grid-row2 select{
+    margin-left: 30px;
+    margin-top: 30px;
+    height: 30px;
+    text-indent: 10px;
+    border: none;
+    width: 150px;
+}
+
+.grid-row2 textarea{
+    width: 150px;
+    margin-left: 30px;
+    margin-top: 30px;
+    height: 100px;
+    text-indent: 10px;
+    border: none;
+}
+
+
+.button button{
+    width:150px;
+    height: 50px;
+    margin-left: 180px;
+    margin-top: 20px;
+    color: white;
+    background-color: rgb(112, 112, 230);
+    border: none;
+}
+
+.batbuoc{
+    padding-left: 35px;
+    padding-top: 20px;
+    opacity: 0.5;
+}
+
+a{
+    text-decoration: none;
+}

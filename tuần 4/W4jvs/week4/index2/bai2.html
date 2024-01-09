@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script language="javascript" src="script2.js"></script>
+    <link rel="stylesheet" href="style2.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1 align="center" style="color:blueviolet; font-size:30pt">DONG GOP Y KIEN VE SAN PHAM</h1>
+    <h4 align="center">Góp ý của bạn sẽ được chúng tôi xem xét , vui lòng nhập tiếng việt có dấu<br>
+        Các ý kiến đóng nên viết chi tiết rõ ràng , kèm theo các minh chứng xác thực thời gian và địa điễm ( nếu có ) .</h4>
+    <form style="background-color:rgb(218, 217, 217) ; width:800px ; height:500px ; margin-left:280px ">
+        <div class="grid">
+            <input type="text" id="hoten" value="" placeholder="Họ và tên">
+            <input type="text" id="mathe" value="" placeholder="Mã thẻ">
+        </div>
+
+        <div class="grid">
+            <input type="text" id="sodth" value="" placeholder="Số điện thoại">
+            <input type="email" id="email" value="" placeholder="E-mail">
+        </div>
+
+        <div class="grid">
+            <select name="chon loai khach hang" id="loaikh" >
+                <option value="" selected="selected" >Chon loai khach hang</option>
+                <option value="">khach hang bth</option>
+                <option value="">khach hang than thiet</option>
+                <option value="">khach hang vip</option>
+            </select>
+            <input type="text" id="mahd" value="" placeholder="Mã hóa đơn">
+        </div>
+
+        <div id="grid-2">
+            <textarea name="" id="motact" placeholder="Nhập chi tiết mô tả" cols="126" rows="10"></textarea>
+
+        <input type="button" value="Gửi góp ý" id="button" onclick="info()" onbclick="">
+        </div>
+    </form>
+    </body>
+</html>

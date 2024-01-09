@@ -1,0 +1,49 @@
+#huy1{
+    color:rgb(20, 233, 20);
+    text-align: center;
+    padding-top: 100px;
+}
+
+#huy{
+    margin-left: 400px;
+}
+
+#huy2{
+    text-decoration: underline;
+}
+#huy3{
+    font-style: italic;
+}
+#huy4{
+    color: red;
+}
+#huy5{
+    vertical-align: sub;
+    font-size: smaller;
+}
+#huy6{
+    font-style: italic; 
+}
+#huy7{
+    color: red;
+}
+#huy8{
+    vertical-align: sub;
+    font-size: smaller;
+}
+#huy9{
+    vertical-align: super;
+    font-size: smaller;
+}
+#huy10{
+    background-color: darkgray;
+    color: blue;
+    padding: 30px;
+    width: 600px;
+}
+#huy11{
+    padding-left: 50px;
+}
+#huy12{
+    padding-left: 100px;
+}

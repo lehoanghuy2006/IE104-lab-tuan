@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(187, 220, 220);
+}
+
+.border{
+    border: none;
+    background-color: white;
+    margin: auto;
+    margin-top:60px;
+    width: 500px;
+    height: 550px;
+}
+
+.container{
+    margin-left: 30px;
+}
+
+.title-signin{
+    font-weight: bold;
+    font-size: 22pt;
+    padding-top: 50px;
+}
+
+.google{
+    width: 200px;
+    margin-top: 50px;
+    height: 30px;
+    font-weight: bold;
+}
+
+.facebook{
+    width: 200px;
+    margin-top: 50px;
+    height: 30px;
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+.or{
+    margin-left: 200px;
+    margin-top: 20px;
+    opacity: 0.5;
+}
+
+.container input{
+    width: 430px;
+    margin-top: 20px;
+    height: 40px;
+    text-indent: 20px;
+    border: none;
+}
+
+.quenmk{
+    float: right;
+    padding-right: 35px;
+    padding-top: 50px;
+    font-weight: bold;
+    font-size: 13pt;
+    opacity: 0.7;
+}
+
+.btn-signin{
+    width: 435px;
+    height: 40px;
+    color: white;
+    background-color: green;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.dangky{
+    text-align: center;
+    padding-top: 20px;
+    opacity: 0.6;
+}
+
+.container b{
+    color: green;
+    opacity: none;
+}

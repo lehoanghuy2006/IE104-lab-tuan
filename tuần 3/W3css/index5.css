@@ -1,0 +1,155 @@
+*{
+  margin: 0;
+  padding: 0
+}
+
+#consider{
+  width: 100%;
+}
+
+#title{
+  color: white;
+  text-shadow: 0 0.1em blueviolet, 0 0.1em blueviolet;
+  z-index: index auto;
+  position: absolute;
+  margin-left: 550px;
+  margin-top: -100px;
+  font-size: 30pt;
+}
+
+#mucluc{
+  float: left;
+}
+
+/* index5-2 */
+
+#float{
+  display: flex;
+}
+#float1{
+  float: left;
+  padding-right: 150px;
+}
+#float2{
+  float:right;
+  margin-left:-150px;
+}
+#chu{
+  color: white;
+  text-align: center;
+  z-index: index auto;
+  position: absolute;
+  font-weight: bold;
+  font-size: 9pt;
+  font-style: italic;
+  padding-left: 80px;
+  padding-top: 60px;
+}
+
+#nenmenu{
+  display: flex;
+  float: left;
+  z-index: index auto;
+  position: absolute;
+}
+
+
+#nen{
+  background-color: greenyellow;
+  padding-top: 180px
+  
+}
+
+#container{
+  background-image: url(/W2css/imagesindex8/co-vietnam.png);
+  background-repeat: repeat-y ;
+  background-size: 560px;
+  background-position: center top;
+
+}
+
+#title2{
+  color: red;
+  margin-left:250px;
+  margin-top: 10px;
+  font-size: 24pt;
+  
+}   
+#size{
+  font-size: 14pt;
+}
+
+#images{
+  width: 200px;
+  height: 550px;
+  margin-top: -50px;
+  padding-left: 50px;
+
+}
+#huy{
+  padding-left: 300px;
+  margin-top:-480px;
+  ;
+}
+#huy1{
+  padding-left: 60px;
+  text-decoration: underline;
+  color: blue;
+}
+#huy2{
+  padding-left: 40px;
+}
+
+#images2{
+  width: 300px;
+  height: 300px;
+  float: right;
+}
+
+#footer{
+  text-align:right ;
+}
+
+
+
+
+/* index5-3 */
+
+#nen2{
+  background-color: greenyellow;
+  padding-top: 180px
+  
+}
+
+#display{
+  display: flex;
+  
+}
+
+#display1{
+  float: left;
+  z-index: index auto;
+  position: absolute;
+}
+
+#display2{
+  float: right;
+}
+
+#mauhong{
+  padding-left: -200px;
+  z-index: index auto;
+  position: absolute;
+  width: 1250px;
+}
+
+#chu2{
+  color: white;
+    z-index: index 1;
+    position: absolute;
+    padding-left: 50px;
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 15pt;
+
+}

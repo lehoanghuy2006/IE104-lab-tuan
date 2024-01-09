@@ -1,0 +1,72 @@
+#vien{
+    border-style:dotted ;
+    border-width: 2px;
+    padding: 20px;
+    border-color: red;
+    position:absolute;
+    z-index: index auto;  
+   text-align: center; 
+   margin-top: 200px;
+   margin-left: 490px;
+    width: 600px;
+    height: 250px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+#title{
+    color:red;
+    font-weight: bold;
+    margin-top: -5px;
+    font-size: 25pt;
+
+}
+
+#join{
+    padding-left: 140px;
+    
+}
+
+#click{
+
+    position:absolute;
+    z-index: index auto; 
+    margin-top: 60px;
+    margin-left: -80px  ;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    color: white;
+    background-color: red;
+    border-color: red;
+
+}
+
+#pass{
+text-indent:35px;
+}
+
+#vientron{
+    border-style:dotted;
+    border-color: red;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    background-color: rgb(225, 182, 182);
+    width: 150px;
+    border-width: 1.7px;
+    opacity:0.5;
+}
+
+#images{
+    width: 300px;
+    height: 250px;
+    margin-top: 230px;
+    margin-left: 800px;
+    position:absolute;
+    z-index: index auto; 
+}

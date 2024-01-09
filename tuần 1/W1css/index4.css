@@ -1,0 +1,50 @@
+#huy1{
+    color: rgb(216, 104, 6);
+    border-style: double;
+    border-width: 4px;
+    border-color: rgb(52, 238, 52);
+    text-align: center;
+    font-weight: bold;
+}
+#huy2{
+    float:right;
+}
+#huy3{
+    font-style: italic;
+    font-size: 40pt;
+    color: rgb(23, 220, 23);
+}
+#huy4{
+    float: left;
+    padding-right: 20px;
+}
+#huy5{
+    font-style: italic;
+    text-decoration: underline;
+}
+#huy6{
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bold;
+    background-color: rgb(220, 86, 37);
+}
+#huy7{
+    color: white;
+    background-color: rgb(58, 224, 17);
+    padding: 10px;
+    text-align: right;
+}
+#huy8{
+    float: right;
+    width: 100px;
+    height: 100px;
+}
+#huy10{
+    background-color: rgb(237, 100, 8);
+    height: 2px;
+}
+#huy9{
+    float: right;
+    width: 70px;
+    height: 70px;
+}

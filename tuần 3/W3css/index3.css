@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0
+}
+
+#title{
+    color: blue;
+    text-align: center;
+    font-size: 25pt;
+    margin-top: 20px;
+}
+
+#table{
+    border-width: 1px;
+    border-style: solid;
+    border-spacing: 0px;
+    background-color: blanchedalmond;
+    color: blue ;
+    margin-left: 430px;
+    margin-top: 20px;
+}
+
+.hoten{
+    height: 50px;
+    width: 250px;
+    padding-left: 10px;
+}
+
+#hoten-input-2{
+    width: 300px;
+}
+#hoten-input-1{
+    width: 400px;
+    padding-left:10px;
+}
+
+.diachi{
+    height: 100px;
+    padding-left: 10px;
+}
+
+#diachi-input{
+    width: 370px;
+    height: 80px;
+    margin-left:10px;
+}
+
+#dienthoai-input{
+    width: 150px;
+    margin-left:10px;
+}
+
+#kvn-input{
+    margin-left: 10px;
+    accent-color:grey;
+}
+
+
+#tour{
+    padding-left: 10px;
+}
+
+#phuongtien{
+    accent-color: black;
+    color: blue;
+    padding-left: 20px;
+}

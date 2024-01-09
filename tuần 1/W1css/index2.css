@@ -1,0 +1,52 @@
+#container{
+    background-image: url(imagesindex2/hoang-hon-phu-quoc.jpg);
+    width: 1500x;
+    height: 720px;
+    margin-top: 1px;
+}   
+#huy{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+#huy1{
+    color:rgb(238, 238, 79);
+    padding-top: 60px;
+    text-align: center;
+}
+#huy2{
+    color:white;
+    font-style: italic;
+}
+#huy4{
+    color:white;
+    text-indent: 100px;
+}
+#huy6{
+    color:white;
+    text-indent: 100px;
+}
+#huy8{
+    color:white;
+    text-indent: 100px;
+}
+#huy9{
+    color:white;
+    text-indent: 100px;
+}
+#huy11{
+    color:white;
+    text-indent: 100px;
+}
+#huy3{
+    color:red;
+}
+#huy5{
+    color:chocolate;
+}
+#huy7{
+    color:green
+}
+#huy10{
+    color:blueviolet
+}

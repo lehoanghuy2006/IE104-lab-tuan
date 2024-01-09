@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin-top:100px;
+    margin-left: 200px;
+}
+
+.container img{
+    margin-right: 20px;
+}
+
+.container input{
+    width: 1000px;
+    height: 100px;
+    text-indent: 20px;
+    opacity: 0.6;
+}
+
+.container p{
+    border: 1px solid black;
+    width: 200px;
+    height: 30px;
+    margin-left: 40px;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    background-color: rgb(117, 117, 233);
+    font-weight: bold;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+}
+
+.xuatthongtin{
+    opacity: 0.5;
+    margin-top: 100px;
+}
+
+.textnhap{
+    text-align: center;
+    
+}

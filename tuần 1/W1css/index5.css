@@ -1,0 +1,75 @@
+#container{
+    background-image: url(/W1css/imagesindex5/nen-hoa-hong.jpg);
+    background-repeat: no-repeat;
+    background-position: right bottom 110%;
+    background-size: 65%;
+}
+
+#huy1{
+    color: white;
+    font-size: 40pt;
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'UTM Wedding K&T', regular;
+    text-shadow: 0 0 0.2em #ff03d1;
+}
+
+#huy2{
+    text-align: left;
+    width: 350px;
+    height:300px;
+}
+
+#huy3{
+    padding-left: 500px; 
+    margin-top: -280px;   
+}
+
+#huy4{
+    background-color:#ff03d1  ;
+    width:66px; 
+    color:aliceblue ;
+    font-weight: bold;
+}
+
+#huy5{
+    padding-left: 22px
+}
+
+#huy6{
+    background-color:darkgrey ;
+    width:400px ; 
+    height:1px ; 
+    margin-left:520px ; 
+    margin-right:250px;
+}
+
+#huy7{
+    padding-left:540px
+}
+
+#huy8{
+    background-color:#ff03d1 ; 
+    width:66px; 
+    color:aliceblue;
+}
+
+#huy9{
+    padding-left:565px
+}
+
+#huy10{
+    padding-left:540px
+}
+
+#huy11{
+    font-size:13px
+}
+
+#huy12{
+    color:blueviolet;
+}
+
+#huy13{
+    color:red;
+}

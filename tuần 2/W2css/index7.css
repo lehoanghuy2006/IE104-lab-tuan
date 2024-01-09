@@ -1,0 +1,93 @@
+#container{
+    background-image: url(/W2css/imagesindex7/nen-hoa-hong.png);
+    background-color: rgb(149, 20, 20);
+    background-repeat: no-repeat;
+    background-position: right bottom 200%;
+    position:absolute;
+    z-index: index auto;
+}
+
+#huy1{
+    margin-top: 150px;
+    margin-left: 150px;
+}
+
+#huy2{
+    margin-left: -260px;
+    margin-top: 500px;
+    width: 250px;
+    height: 200px;
+}
+
+#huy3{
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    position:absolute;
+    z-index: index auto;
+    padding: 250px;
+    margin-top: 100px;
+    margin-left: -55px;
+    width: 150px;
+    height: 50px;
+}
+
+#huy4{
+    background-color: red;
+    color: white;
+    width: 450px;
+    height: 50px;
+    text-align: right;
+    padding-top: 20px;
+    position:absolute;
+    z-index: index auto;
+  
+}
+
+#huy5{
+    background-color: rgb(247, 149, 227);
+    color: red;
+    width: 650px;
+    height: 50px;
+    padding-top: 90px;
+    
+}
+#huy6{
+    position:absolute;
+    z-index: index auto;
+    width: 200px;
+    height: 130px;
+    margin-top: -240px;
+    margin-left: 200px;
+}
+
+.title1{
+    color: #fb0000;
+    width: 200px;
+    font-size: 15pt;
+    list-style: square outside none;
+}
+
+.title2{
+    color: white;
+    width: 230px;
+    list-style-type: disc;
+}
+.title{
+   margin-left: -250px;
+}
+
+.title3{
+    margin-left: 80px;
+    margin-top: -352px
+}
+
+.title4{
+    color: white;
+    width: 230px;
+
+}
+
+.huy7{
+    font-style: italic;
+}

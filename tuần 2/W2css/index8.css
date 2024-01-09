@@ -1,0 +1,181 @@
+/* index8-1 */
+#container{
+    background-image: url(/W2css/imagesindex8/co-vietnam.png);
+    background-repeat: repeat-y ;
+    background-size: 560px;
+    background-position: center top;
+
+}
+
+#title{
+    color: red;
+    text-align: center;
+    margin-top: 50px;
+}   
+#size{
+    font-size: 14pt;
+}
+
+#images{
+    width: 200px;
+    height: 550px;
+    margin-top: -50px;
+}
+#huy{
+    padding-left: 300px;
+    margin-top:-520px;
+}
+
+#huy2{
+    padding-left: 40px;
+}
+
+#images2{
+    width: 300px;
+    height: 300px;
+    float: right;
+}
+
+#footer{
+    text-align:right ;
+}
+
+
+
+/* index8-2 */
+
+#container2{
+    background-image: url(/W2css/imagesindex8/co-vietnam.png);
+    background-repeat:no-repeat;
+    background-position: center top 50%;
+}
+
+#title2{
+    color: white;
+    background-color: red;
+    text-indent: 20px;
+}
+
+#images3{
+    width: 250px;
+    height: 250px;
+    float: left;
+    padding-right: 20px;
+}
+#text2{
+    font-size: 14pt;
+}
+
+#H{
+    line-height: 1;
+    font-size: 65pt;
+    color: rgb(255, 221, 0);
+    float:left;
+    padding-right: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 2px 2px 2px red;
+}
+
+#images4{
+    float: right;
+    width: 350px;
+    height: 250px;
+}
+
+/* index8-3 */
+
+#cochu{
+    font-size: 14pt;
+}
+
+#title3{
+    color: white;
+    background-color: blueviolet;
+    text-indent: 10px;
+}
+
+#H2{
+    line-height: 1;
+    float: left;
+}
+
+#images5{
+    margin-left: 450px;
+    width: 450px;
+    height: 300px;
+}
+
+#chuthichanh{
+    margin-left: 650px;
+    font-weight: bold;
+}
+
+#container3{
+    
+    background-image: url(/W2css/imagesindex8/co-vietnam.png);
+    width: 100%;
+    background-repeat: repeat-y;
+    background-position: center top;
+
+}
+
+#images6{
+    width: 100x;
+    height: 200px;
+    float: left;
+    padding-right: 20px;
+}
+
+#images7{
+    width: 100x;
+    height: 200px;
+    float: right;
+    padding-left: 20px;
+}
+
+
+/* index8-4 */
+
+#container4{
+    background-image: url(/W2css/imagesindex8/co-vietnam.png);
+    background-repeat: no-repeat;
+    background-position: center top 40%;
+}
+
+#title4{
+    color: white;
+    background-color: rgb(223, 95, 176);
+    text-indent: 20px;
+    margin-top: 50px;
+   
+}
+
+#images8{
+    line-height: 1;
+    float: left;
+
+}
+
+#chiacot{
+    display: flex;
+    font-size: 15pt;
+}
+
+#box{
+    width: 30%;
+    padding-left: 30px;
+    padding-right: 15px;
+}
+
+#images9{
+    width: 440px;
+    height: 270px;
+}
+
+#box2{
+    width: 30%;
+    padding-right: 15px;
+    padding-left: 30px;
+    border-right: 2px dashed;
+    border-left: 2px dashed;
+}

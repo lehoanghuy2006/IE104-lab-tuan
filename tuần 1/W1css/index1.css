@@ -1,0 +1,38 @@
+.comment{
+    color:rgb(186, 49, 145);
+    font-size: 50pt;
+    background-color: rgb(239, 178, 232);
+    text-align: center;
+    height: 90px;
+}
+#comment2{
+    color:blue;
+    font-size: 20pt;
+    text-align: center;
+}
+.comment4{
+    background-color:black;
+    width:40%;
+    height:3px;
+    
+}
+.comment3{
+    color:rgb(227, 49, 158);
+    font-size:20pt;
+    text-align:center;
+}
+.comment5{
+    background-color:black;
+    width:40%;
+    height:3px;
+}
+.comment6{
+    color:rgb(10, 141, 62);
+    font-size: 20pt;
+    text-align: center;
+}
+.comment1{
+    background-color:rgb(239, 239, 188);
+    height:480px
+    
+}

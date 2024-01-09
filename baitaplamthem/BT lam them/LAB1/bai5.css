@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+
+#image{
+    width: 1000px;
+    height: 350px;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+#fontchu{
+    color: rgb(255, 255, 255);
+    text-align: center  ;
+    margin-top: 150px;
+    margin-left: 380px;
+    z-index: index auto;
+    position: absolute;
+}
+
+#dktg{
+    background-color: brown;
+    color: white;
+    width: 180px;
+    height: 40px;    
+    border-bottom-right-radius:5px;
+    border-top-right-radius:5px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+#box{
+    margin-left: 650px;
+    margin-top: -120px;
+    z-index: index auto;
+    position: absolute;
+}

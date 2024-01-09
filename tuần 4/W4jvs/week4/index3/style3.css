@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 100px;
+}
+
+.title{
+    color: blue;
+    padding-bottom: 20px;
+    font-size: 25pt;
+}
+hr{
+    background-color: red;
+    height: 2px;
+    margin-bottom: 20px;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 300px 800px;
+}
+
+.grid-row1 b{
+    font-size: 15pt;
+}
+
+.grid-row1 p{
+    padding-top: 30px;
+    opacity: 0.5;
+}
+
+.grid-row2 p{
+    color: blue;
+    font-size: 15pt;
+}
+
+.grid-row2 input{
+    margin-top: 30px;
+    width: 890px;
+    text-indent: 10px;
+    height: 30px;
+}
+
+.grid-row2 textarea{
+    margin-top: 30px;
+    width: 890px;
+    text-indent: 10px;
+}
+
+.grid-row2 button{
+    margin-top: 10px;
+    width: 150px;
+    height: 40px;
+    background-color: rgb(65, 118, 100);
+    color: white;
+    accent-color: red;
+}
